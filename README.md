@@ -1,6 +1,6 @@
 JMLR 2021 -- Policy Teaching in Reinforcement Learning via Environment Poisoning Attacks
 
-## Prerequisites:
+## Prerequisites
 ```
 Python3
 Matplotlib
